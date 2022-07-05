@@ -29,3 +29,5 @@ token uri https://gft-authentic-api.herokuapp.com/api/creature/15
 that `token uri` is the location where the contract stores its metadata!
 
 glhf
+
+https://www.youtube.com/watch?v=uwdXnbIxVJA
